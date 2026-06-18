@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Miftahul%20Islam%20Tashfin!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Creative%20Problem%20Solver&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Miftahul%20Islam%20Tashfin!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=55&descAlign=62" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Major+@+East+West+University;Passionate+about+Full-Stack+Development;Creative+Problem+Solver;Always+Learning+%26+Building+Impactful+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineering+Major+@+East+West+University;Passionate+about+Full-Stack+Development;Always+Learning+%26+Building+Impactful+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
