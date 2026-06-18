@@ -1,4 +1,4 @@
-﻿<!-- Header -->
+<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Miftahul%20Islam%20Tashfin!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=55&descAlign=62" />
 </div>
@@ -40,7 +40,9 @@
 <br><br>
 
 #### 🎨 Design & Tools
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/-UI%2FUX%20Design-FF007F?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/-AutoCAD-FF0000?style=flat-square&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/-draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" /> <img src="https://img.shields.io/badge/-Tinkercad-12ADEB?style=flat-square&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/-UI%2FUX%20Design-FF007F?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/-AutoCAD-FF0000?style=flat-square&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/-draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" /> <img src="https://img.shields.io/badge/-Tinkercad-12ADEB?style=flat-square&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-Visual%20Paradigm-D2222D?style=flat-square&logo=visual-paradigm&logoColor=white" />
 <br><br>
 
 ---
