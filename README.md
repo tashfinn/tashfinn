@@ -50,7 +50,7 @@
 * 📚 <a href="https://github.com/tashfin5/Utsho-App" target="_blank">**Utsho App**</a> - Utsho Coaching Management System.
 * 📸 <a href="https://github.com/tashfin5/Tonmoy-Photography" target="_blank">**Tonmoy Photography**</a> - A portfolio and booking website designed for Tonmoy Photography.
 * 🌑 <a href="https://github.com/tashfin5/DarkSight" target="_blank">**DarkSight**</a> - A browser extension to detect and countermeasure the dark patterns from e-commerce websites.
-* ❌⭕ <a href="https://github.com/tashfin5/TicTacToe-Online" target="_blank">**TicTacToe Online**</a> - A beautiful, real-time multiplayer Tic Tac Toe game featuring both a Web Version and a Standalone Java Desktop App.
+* ⭕ <a href="https://github.com/tashfin5/TicTacToe-Online" target="_blank">**TicTacToe Online**</a> - A beautiful, real-time multiplayer Tic Tac Toe game featuring both a Web Version and a Standalone Java Desktop App.
 * 🧠 <a href="https://github.com/tashfin5/mindquery" target="_blank">**Mindquery**</a> - A modern, blazing-fast, and responsive quiz application featuring a completely serverless architecture using Vercel and Neon PostgreSQL.
 
 ---
