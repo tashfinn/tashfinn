@@ -1,74 +1,107 @@
+<!-- Header -->
 <div align="center">
-
-<h1> Hi there, I'm Miftahul Islam Tashfin 👋 </h1>
-
-<div align="center">
-
-### Software Engineer Major | B.Sc. in CSE @ East West University
-**Passionate about software engineering, creative problem-solving, and building impactful solutions. I thrive on learning and exploring new technologies in web development, software design, and beyond.**
-
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Miftahul%20Islam%20Tashfin!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Creative%20Problem%20Solver&descAlignY=55&descAlign=62" />
+</div>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Major+@+East+West+University;Passionate+about+Full-Stack+Development;Creative+Problem+Solver;Always+Learning+%26+Building+Impactful+Solutions" alt="Typing SVG" />
+  </a>
+</div>
 
-### 💼 Experience & Leadership
-
-<div align="left">
-
-- 💻 **E-Learning Coordinator** @ Utsho Academic & Exam Care *(Oct 2025 - Apr 2026)*
-- 🎨 **Creative Secretary** @ East West University Computer Programming Club (EWUCoPC) *(Jan 2025 - Present)*
-
----
+<br/>
 
 <div align="center">
 
-### 🛠 Tech Stack & Skills
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **Web & Design** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![UI/UX](https://img.shields.io/badge/-UI%2FUX%20Design-FF007F?logo=figma&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
-| **Tools & Others** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-FF0000?logo=autodesk&logoColor=white) ![draw.io](https://img.shields.io/badge/-draw.io-F08705?logo=diagramsdotnet&logoColor=white) ![Tinkercad](https://img.shields.io/badge/-Tinkercad-12ADEB?logo=autodesk&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white) ![Visual Paradigm](https://img.shields.io/badge/-Visual%20Paradigm-D2222D?logo=visual-paradigm&logoColor=white) |
-
----
-
-<div align="center">
-
-### 📂 Featured Projects
-
-<div align="left">
-  
-* **[EWU-Connected](https://github.com/tashfin5/ewu-connected)** - [Add a brief description of the project here]
-* **[Lumiere](https://github.com/tashfin5/lumiere)** - [Add a brief description of the project here]
-* **[Utsho App](https://github.com/tashfin5/utsho-app)** - [Add a brief description of the project here]
-* **[Tonmoy Photography](https://github.com/tashfin5/tonmoy-photography)** - [Add a brief description of the project here]
-* **[Darksight](https://github.com/tashfin5/darksight)** - [Add a brief description of the project here]
-* **[TicTacToe Online](https://github.com/tashfin5/tictactoe-online)** - [Add a brief description of the project here]
-* **[Mindquery](https://github.com/tashfin5/mindquery)** - [Add a brief description of the project here]
-
----
-<div align="center">
-  
-  ### 📈 GitHub Stats
-  <img src="https://komarev.com/ghpvc/?username=tashfin5&color=blue&style=flat-square" alt="Profile views" />
-  <br><br>
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tashfin5&show_icons=true&theme=tokyonight&hide_border=true&ring_color=8b5cf6&title_color=4ade80" alt="Tashfin's GitHub Stats" height="195" />
-  <img src="https://streak-stats.demolab.com/?user=tashfin5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tashfin5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+> **“I thrive on learning, building, and collaborating on projects that bridge innovation and real-world impact.”**
 
 </div>
 
 ---
 
-<div align="center">
-  
-### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-linkedin-profile)
-[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://your-portfolio-link.com)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@example.com)
+### 💼 Experience & Leadership
+
+| Role | Organization | Duration |
+| :--- | :--- | :--- |
+| 💻 **E-Learning Coordinator** | Utsho Academic & Exam Care | *Oct 2025 - Apr 2026* |
+| 🎨 **Creative Secretary** | East West University Computer Programming Club | *Jan 2025 - Present* |
 
 ---
+
+### 🛠 Tech Stack & Skills
+
+<details>
+<summary><b>👨‍💻 Programming Languages</b></summary>
+<br>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</details>
+
+<details>
+<summary><b>🌐 Web & Frameworks</b></summary>
+<br>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</details>
+
+<details>
+<summary><b>🎨 Design & Tools</b></summary>
+<br>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-UI%2FUX%20Design-FF007F?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/-AutoCAD-FF0000?style=flat-square&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/-draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tinkercad-12ADEB?style=flat-square&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+</details>
+
+---
+
+### 📂 Featured Projects
+
+* 🎓 **[EWU-Connected](https://github.com/tashfin5/ewu-connected)** - A course project built for Software Engineering (CSE412).
+* 🛍️ **[Lumiere](https://github.com/tashfin5/Lumiere)** - A modern E-Commerce platform built with web technologies.
+* 📚 **[Utsho App](https://github.com/tashfin5/Utsho-App)** - Utsho Coaching Management System.
+* 📸 **[Tonmoy Photography](https://github.com/tashfin5/Tonmoy-Photography)** - A portfolio and booking website designed for Tonmoy Photography.
+* 🌑 **[DarkSight](https://github.com/tashfin5/DarkSight)** - A creative software project.
+* ❌⭕ **[TicTacToe Online](https://github.com/tashfin5/TicTacToe-Online)** - A beautiful, real-time multiplayer Tic Tac Toe game featuring both a Web Version and a Standalone Java Desktop App.
+* 🧠 **[Mindquery](https://github.com/tashfin5/mindquery)** - A modern, blazing-fast, and responsive quiz application featuring a completely serverless architecture using Vercel and Neon PostgreSQL.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tashfin5&show_icons=true&theme=react&hide_border=true&ring_color=61DAFB" alt="Tashfin's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tashfin5&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="195" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=tashfin5&theme=react&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect with me
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/miftahul-islam-tashfin-499234204/)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/FinnX5/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/m_tashfin/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mwtsfn@gmail.com)
+<!-- [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://your-portfolio-link.com) -->
+
 </div>
