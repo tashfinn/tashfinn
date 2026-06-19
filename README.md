@@ -25,9 +25,9 @@
 
 | Role | Organization | Duration |
 | :--- | :--- | :--- |
-| 💻 **E-Learning Coordinator** | Utsho Academic & Exam Care | *Oct 2025 - Apr 2026* |
 | 🎨 **Creative Secretary** | East West University Computer Programming Club | *Oct 2025 - Present* |
 | 📋 **Sub-Executive** | East West University Computer Programming Club | *May 2024 - Oct 2025* |
+| 💻 **E-Learning Coordinator** | Utsho Academic & Exam Care | *Oct 2025 - Apr 2026* |
 
 </div>
 
