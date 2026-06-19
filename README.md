@@ -50,13 +50,13 @@
 
 ### 📂 Featured Projects
 
-* 🎓 <a href="https://github.com/tashfinn/ewu-connected" target="_blank">**EWU-Connected**</a> - A platform to connect all the students of East West University.
+* 🎓 <a href="https://github.com/tashfinn/ewu-connected" target="_blank">**EWU ConnectED**</a> - A platform to connect all the students of East West University.
 * 🛍️ <a href="https://github.com/tashfinn/Lumiere" target="_blank">**Lumiere**</a> - A modern E-Commerce platform built with web technologies.
 * 📚 <a href="https://github.com/tashfinn/Utsho-App" target="_blank">**Utsho App**</a> - Utsho Coaching Management System.
 * 📸 <a href="https://github.com/tashfinn/Tonmoy-Photography" target="_blank">**Tonmoy Photography**</a> - A portfolio and booking website designed for Tonmoy Photography.
 * 🌑 <a href="https://github.com/tashfinn/DarkSight" target="_blank">**DarkSight**</a> - A browser extension to detect and countermeasure the dark patterns from e-commerce websites.
 * ⭕ <a href="https://github.com/tashfinn/TicTacToe-Online" target="_blank">**TicTacToe Online**</a> - A real-time multiplayer Tic Tac Toe game featuring both a Web Version and a Standalone Java Desktop App.
-* 🧠 <a href="https://github.com/tashfinn/mindquery" target="_blank">**Mindquery**</a> - A modern, blazing-fast, and responsive quiz application featuring a completely serverless architecture using Vercel and Neon PostgreSQL.
+* 🧠 <a href="https://github.com/tashfinn/mindquery" target="_blank">**MindQuery**</a> - A modern, blazing-fast, and responsive quiz application featuring a completely serverless architecture using Vercel and Neon PostgreSQL.
 
 ---
 
